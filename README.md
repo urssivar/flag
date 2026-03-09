@@ -64,8 +64,6 @@ The swallowtail (1:2) draws on an attested form: the flag of Eldar-Bek of Kara-K
 
 ## License
 
-This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). If you use this specification in your work, please cite:
-
-> Magomedov, M. (2026). _Kaitag Flag_. Retrieved from https://github.com/urssivar/flag
+This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Contact: alkaitagi@outlook.com
