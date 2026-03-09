@@ -35,7 +35,7 @@ A stylized Kufic monogram of a Kaitag ruler, drawn from the relief of a 13th-cen
 
 ### Flower
 
-A four-petal madder flower (_Rubia tinctorum_), positioned upper-right to balance the monogram's asymmetry. Madder was the primary dye crop of Kaitag, cultivated in such abundance that it yielded more income than wheat.[^1]
+A four-petal madder flower (_Rubia tinctorum_), a key dye crop of Kaitag, positioned upper-right to balance the monogram's asymmetry.[^1]
 
 ## Variants
 
