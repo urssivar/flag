@@ -19,7 +19,7 @@ For historical background, references, and interactive preview, see [urssivar.co
 | Property    | Value                         |
 | :---------- | :---------------------------- |
 | Proportions | 2:3                           |
-| Color       | #0047AB / PMS 300 C           |
+| Color       | `#0047AB` / PMS 300 C           |
 | Elements    | White seal: monogram + flower |
 
 ![construction](construction.svg)
