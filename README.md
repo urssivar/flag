@@ -10,7 +10,7 @@
 >
 > Proportions 2:3 (swallowtail 1:2). Color #0047AB / PMS 300 C.
 
-![flag](flag.png)
+![flag](flag.svg)
 
 For historical background, references, and interactive preview, see [urssivar.com/flag](https://urssivar.com/flag) _(coming soon)_.
 
