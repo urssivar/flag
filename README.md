@@ -18,8 +18,8 @@ For historical background, references, and interactive preview, see [urssivar.co
 
 | Property    | Value                         |
 | :---------- | :---------------------------- |
-| Proportions | 2:3                           |
-| Color       | `#0047AB` / PMS 300 C           |
+| Proportions | `2:3`                         |
+| Color       | `#0047AB` / PMS 300 C         |
 | Elements    | White seal: monogram + flower |
 
 ![construction](construction.svg)
@@ -28,21 +28,21 @@ For historical background, references, and interactive preview, see [urssivar.co
 
 ### Monogram
 
-A stylized Kufic monogram of a Kaitag ruler, drawn from the relief of a 13th-century dynastic sarcophagus[^2] — one of the earliest known monuments of Kaitag statehood.[^3]
+A stylized Kufic monogram of a Kaitag ruler, drawn from the relief of a 13th-century dynastic sarcophagus[^1] — one of the earliest known monuments of Kaitag statehood.[^2]
 
 ### Flower
 
-A four-petal madder flower (_Rubia tinctorum_), a key dye crop of Kaitag, positioned upper-right to balance the monogram's asymmetry.[^1]
+A four-petal madder flower (_Rubia tinctorum_), a key dye crop of Kaitag, positioned upper-right to balance the monogram's asymmetry.[^3]
 
 ### Field
 
-Deep blue is the canonical ground of Kaitag embroidery, documented by ethnographer E. M. Shilling.[^1]
+Deep blue is the canonical ground of Kaitag embroidery, documented by ethnographer E. M. Shilling.[^3]
 
 ## Variants
 
 ![swallowtail](swallowtail.svg)
 
-The swallowtail (1:2) draws on an attested form: the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent on 24 August 1831, was two-tailed[^4] — a common shape among Caucasian War-era banners.
+The swallowtail (`1:2`) draws on an attested form: the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent on 24 August 1831, was two-tailed[^4] — a common shape among Caucasian War-era banners.
 
 ## Files
 
@@ -54,11 +54,11 @@ The swallowtail (1:2) draws on an attested form: the flag of Eldar-Bek of Kara-K
 | `swallowtail.png`  | Raster export       |
 | `construction.svg` | Construction sheet  |
 
-[^1]: Гасанова З. И., Гаджалова Ф. А. _Кайтагская вышивка: от истоков в будущее._ 2-е изд. Дербент: Типография-М, 2022. 176 с.
+[^1]: Маммаев М. М. _Искусство Зирихгерана-Кубачи XIII–XV вв. и его место в системе художественных культур Востока и Запада._ Махачкала: Эпоха, 2014. 592 с.
 
-[^2]: Маммаев М. М. _Искусство Зирихгерана-Кубачи XIII–XV вв. и его место в системе художественных культур Востока и Запада._ Махачкала: Эпоха, 2014. 592 с.
+[^2]: Магомедов М. Г., Шихсаидов А. Р. _Калакорейш (Крепость курейшитов)._ Махачкала: Юпитер, 2000. 168 с.
 
-[^3]: Магомедов М. Г., Шихсаидов А. Р. _Калакорейш (Крепость курейшитов)._ Махачкала: Юпитер, 2000. 168 с.
+[^3]: Гасанова З. И., Гаджалова Ф. А. _Кайтагская вышивка: от истоков в будущее._ 2-е изд. Дербент: Типография-М, 2022. 176 с.
 
 [^4]: Дадаев Ю. У. _Наибы и мудиры Шамиля._ Махачкала, 2009. 624 с.
 
