@@ -27,11 +27,11 @@ For historical background, references, and interactive preview, see [urssivar.co
 
 ### Field
 
-Deep blue is the canonical ground of Kaitag embroidery, attested by ethnographer E. M. Shilling.[^1]
+Deep blue is the canonical ground of Kaitag embroidery, documented by ethnographer E. M. Shilling.[^1]
 
 ### Monogram
 
-A stylized Kufic monogram of a Kaitag ruler, drawn from the relief of a 13th-century dynastic sarcophagus — one of the earliest known artifacts of Kaitag statehood.[^2][^3]
+A stylized Kufic monogram of a Kaitag ruler, drawn from the relief of a 13th-century dynastic sarcophagus[^2] — one of the earliest known monuments of Kaitag statehood.[^3]
 
 ### Flower
 
@@ -41,7 +41,7 @@ A four-petal madder flower (_Rubia tinctorum_), positioned upper-right to balanc
 
 ![swallowtail](swallowtail.svg)
 
-The swallowtail shape is historically attested: the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent on 24 August 1831, was two-tailed — a common form among Caucasian War-era banners. Proportions 1:2.[^4]
+The swallowtail (1:2) draws on an attested form: the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent on 24 August 1831, was two-tailed[^4] — a common shape among Caucasian War-era banners.
 
 ## Files
 
