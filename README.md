@@ -17,7 +17,7 @@ For historical background, references, and interactive preview, see [urssivar.co
 ## Specification
 
 | Property    | Value                         |
-| ----------- | ----------------------------- |
+| :---------- | :---------------------------- |
 | Proportions | 2:3                           |
 | Color       | #0047AB / PMS 300 C           |
 | Elements    | White seal: monogram + flower |
@@ -47,7 +47,7 @@ The swallowtail (1:2) draws on an attested form: the flag of Eldar-Bek of Kara-K
 ## Files
 
 | File               | Description         |
-| ------------------ | ------------------- |
+| :----------------- | :------------------ |
 | `flag.svg`         | Vector source       |
 | `flag.png`         | Raster export       |
 | `swallowtail.svg`  | Swallowtail variant |
