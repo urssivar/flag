@@ -11,9 +11,8 @@
 > Proportions 2:3 (swallowtail 1:2). Color #0047AB / PMS 300 C.
 
 ![flag](flag.png)
-![construction](construction.svg)
 
-For historical background, references, and interactive preview, see [urssivar.com/flag](https://urssivar.com/flag).
+For historical background, references, and interactive preview, see [urssivar.com/flag](https://urssivar.com/flag) _(coming soon)_.
 
 ## Specification
 
@@ -23,11 +22,9 @@ For historical background, references, and interactive preview, see [urssivar.co
 | Color       | #0047AB / PMS 300 C           |
 | Elements    | White seal: monogram + flower |
 
+![construction](construction.svg)
+
 ## Elements
-
-### Field
-
-Deep blue is the canonical ground of Kaitag embroidery, documented by ethnographer E. M. Shilling.[^1]
 
 ### Monogram
 
@@ -36,6 +33,10 @@ A stylized Kufic monogram of a Kaitag ruler, drawn from the relief of a 13th-cen
 ### Flower
 
 A four-petal madder flower (_Rubia tinctorum_), a key dye crop of Kaitag, positioned upper-right to balance the monogram's asymmetry.[^1]
+
+### Field
+
+Deep blue is the canonical ground of Kaitag embroidery, documented by ethnographer E. M. Shilling.[^1]
 
 ## Variants
 
