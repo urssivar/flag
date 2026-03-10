@@ -16,11 +16,9 @@ For historical background, references, and interactive preview, see [urssivar.co
 
 ## Specification
 
-| Property    | Value                         |
-| :---------- | :---------------------------- |
-| Proportions | `2:3`                         |
-| Color       | `#0047AB` / PMS 300 C         |
-| Elements    | White seal: monogram + flower |
+- Proportions — `2:3`
+- Color — `#0047AB` / PMS 300 C
+- Elements — White seal: monogram + flower
 
 ![construction](construction.svg)
 
@@ -46,13 +44,9 @@ The swallowtail (`1:2`) draws on an attested form: the flag of Eldar-Bek of Kara
 
 ## Files
 
-| File               | Description         |
-| :----------------- | :------------------ |
-| `flag.svg`         | Vector source       |
-| `flag.png`         | Raster export       |
-| `swallowtail.svg`  | Swallowtail variant |
-| `swallowtail.png`  | Raster export       |
-| `construction.svg` | Construction sheet  |
+- `flag.svg` / `flag.png` — Vector + raster
+- `swallowtail.svg` / `swallowtail.png` — Swallowtail variant
+- `construction.svg` — Construction sheet
 
 [^1]: Маммаев М. М. _Искусство Зирихгерана-Кубачи XIII–XV вв. и его место в системе художественных культур Востока и Запада._ Махачкала: Эпоха, 2014. 592 с.
 
