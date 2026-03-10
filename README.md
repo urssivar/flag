@@ -1,16 +1,12 @@
 # Kaitag Flag
 
-> The flag of the Kaitag people (**Хайдаҡӏла**) is a blue field with a white seal at its center.
->
-> The stylized Kufic monogram from the pantheon of the rulers of Kaitag symbolizes centuries-old statehood.
->
-> Above and to the right — a white four-leaf madder flower, once abundantly cultivated across Kaitag.
->
-> Deep blue — the traditional ground of Kaitag embroidery.
->
-> Proportions 2:3 (swallowtail 1:2). Color #0047AB / PMS 300 C.
-
 ![flag](flag.svg)
+
+> The flag of the **Kaitag** people (**Хайдаҡӏла**) is a blue field with a white seal at its center.  
+> The stylized **Kufic monogram** from the pantheon of the rulers of Kaitag symbolizes centuries-old statehood.  
+> Above and to the right — a white four-leaf **madder flower**, once abundantly cultivated across Kaitag.  
+> **Deep blue** — the traditional ground of Kaitag embroidery.  
+> Proportions 2:3 (swallowtail 1:2). Color #0047AB / PMS 300 C.
 
 For historical background, references, and interactive preview, see [urssivar.com/flag](https://urssivar.com/flag) _(coming soon)_.
 
@@ -47,6 +43,7 @@ The swallowtail (`1:2`) draws on an attested form: the flag of Eldar-Bek of Kara
 - `flag.svg` / `flag.png` — Vector + raster
 - `swallowtail.svg` / `swallowtail.png` — Swallowtail variant
 - `construction.svg` — Construction sheet
+- `flag.afdesign` — Affinity Designer source
 
 [^1]: Маммаев М. М. _Искусство Зирихгерана-Кубачи XIII–XV вв. и его место в системе художественных культур Востока и Запада._ Махачкала: Эпоха, 2014. 592 с.
 
