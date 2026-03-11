@@ -36,7 +36,7 @@ Deep blue is the canonical ground of Kaitag embroidery, documented by ethnograph
 
 ![swallowtail](swallowtail.svg)
 
-The swallowtail (1:2): two-tailed banners were common among Caucasian War-era flags — among them the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent in 1831.[^4]
+The swallowtail (`1:2`): two-tailed banners were common among Caucasian War-era flags — among them the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent in 1831.[^4]
 
 ## Files
 
