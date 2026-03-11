@@ -22,7 +22,7 @@ For historical background, references, and interactive preview, see [urssivar.co
 
 ### Monogram
 
-A stylized Kufic monogram of a Kaitag ruler, drawn from the relief of a 13th-century dynastic sarcophagus[^1] — one of the earliest known monuments of Kaitag statehood.[^2]
+A stylized Kufic monogram drawn from a 13th-century sarcophagus of a ruler of Kaitag[^1] — one of the earliest known monuments of Kaitag statehood.[^2]
 
 ### Flower
 
@@ -36,7 +36,7 @@ Deep blue is the canonical ground of Kaitag embroidery, documented by ethnograph
 
 ![swallowtail](swallowtail.svg)
 
-The swallowtail (`1:2`): two-tailed banners were common among the Caucasian War-era flags — among them the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent in 1831.[^4]
+Two-tailed banners were common during the Caucasian War — among them the flag of Eldar-Bek of Kara-Kaitag, captured near Derbent in 1831.[^4] The swallowtail (`1:2`) follows this form.
 
 ## Files
 
