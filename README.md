@@ -8,7 +8,7 @@
 > **Deep blue** — the traditional ground of Kaitag embroidery.  
 > Proportions 2:3 (swallowtail 1:2). Color #0047AB / PMS 300 C.
 
-For historical background, references, and interactive preview, see [urssivar.com/flag](https://urssivar.com/flag) _(coming soon)_.
+For historical background, references, and interactive preview, see [urssivar.com/flag](https://urssivar.com/flag).
 
 ## Specification
 
