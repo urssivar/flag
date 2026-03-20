@@ -2,7 +2,7 @@
 
 ![flag](flag.svg)
 
-> The flag of the **Kaitag** people (**Хайдаҡӏла**) is a blue field with a white seal at its center.  
+> The flag of the **Kaitag** (**Хайдаҡӏла**) is a blue field with a white seal at its center.  
 > The stylized **Kufic monogram** from the pantheon of the rulers of Kaitag symbolizes centuries-old statehood.  
 > Above and to the right — a white four-leaf **madder flower**, once abundantly cultivated across Kaitag.  
 > **Deep blue** — the traditional ground of Kaitag embroidery.  
