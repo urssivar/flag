@@ -9,7 +9,7 @@
 > Proportions 2:3 (swallowtail 1:2). Color #0047AB / PMS 300 C.
 
 For historical background, references, and animated preview, see [urssivar.com/flag](https://urssivar.com/flag).
-For an interactive cloth simulation, see [flagwaver](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fraw.githubusercontent.com%2Furssivar%2Fflag%2Frefs%2Fheads%2Fmain%2Fflag.svg).
+For an interactive cloth simulation, see [flagwaver](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fraw.githubusercontent.com%2Furssivar%2Fflag%2Frefs%2Fheads%2Fmain%2Fflag.svg) (& [swallowtail](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fraw.githubusercontent.com%2Furssivar%2Fflag%2Frefs%2Fheads%2Fmain%2Fswallowtail.svg)).
 
 ## Specification
 
