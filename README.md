@@ -23,7 +23,7 @@ For an interactive cloth simulation, see [flagwaver](https://krikienoid.github.i
 
 ### Monogram
 
-A stylized Kufic monogram drawn from a 13th-century sarcophagus of a ruler of Kaitag[^1] — one of the earliest known monuments of Kaitag statehood.[^2]
+A stylized Kufic monogram drawn from a 13th-century sarcophagus attributed to a ruler of Kaitag[^1] — one of the most prominent monuments of its statehood.[^2]
 
 ### Flower
 
